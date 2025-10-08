@@ -1,0 +1,9 @@
+
+# This below key is old
+# NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_YWN0aXZlLWZyb2ctMzIuY2xlcmsuYWNjb3VudHMuZGV2JA
+# CLERK_SECRET_KEY=sk_test_axAkS2iGSHOjyY7633wX1IrlSwqcpbXD38aShe5wny
+
+
+This is used to access the project clerk admin.
+Username:- veracityterminal1@gmail.com
+Password:- veracityterminal123
